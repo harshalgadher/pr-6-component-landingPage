@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+
+* {
+    font-family: "Orbitron", sans-serif;
+}
+
+.h-bg {
+    background-color: #212129;
+}
+
+.hero-bg {
+    background: radial-gradient(circle at center, #1a1a2e, #0f0f1c);
+    padding: 60px 0 0;
+    position: relative;
+    overflow: hidden;
+    background-image: url('https://pixner.net/dooplo3/main-v2/assets/images/banner-index-bg.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner-p {
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: -7px;
+}
+
+.hero-sm-img {
+    position: relative;
+    width: 100%;
+}
+.dir{
+    direction: rtl;
+}
