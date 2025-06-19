@@ -156,3 +156,34 @@
     background: #313144;
     padding: 10px 0;
 }
+.cmn-btn{
+    font-weight: 600;
+    text-decoration: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    background-color: #ffcc00;
+    display: inline-block;
+}
+.play-bg{
+    background-color: #191921;
+}
+.m-60{
+    margin-block: 60px;
+}
+.section-text{
+    margin-bottom: 35px;
+    text-align: center;
+}
+.section-text h2{
+    font-weight: 700;
+    color: white;
+    font-size: 57px;
+    line-height: 71px;
+    margin-top: -14px;
+}
+.bg-area{
+        background-color: #060417;
+}
+.cus-mar{
+    margin-top: -30px;
+}

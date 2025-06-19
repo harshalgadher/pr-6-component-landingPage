@@ -33,7 +33,7 @@ export const SliderSecond = () => {
                         <SwiperSlide>
                             <div className="slider-nw">
                                 <div className="position-relative ">
-                                    <img src="https://pixner.net/dooplo3/main-v2/assets/images/compete-img-2.png" alt="img" className="img-fluid" />
+                                    <img src="https://pixner.net/dooplo3/main-v2/assets/images/compete-img-1.png" alt="img" className="img-fluid" />
                                     <div className="">
                                         <span className="live-text font-monospace fs-6">Live</span>
                                         <span className="entry-text fw-bolder font-monospace">Entry: $5</span>
@@ -59,6 +59,10 @@ export const SliderSecond = () => {
                                     <div className="mt-4">
                                         <p className="md-text font-monospace">Prize Pool: </p>
                                     </div>
+                                    <div className="mb-3">
+                                            <a href="#" className="w-100 text-black cmn-btn">Play Now</a>
+                                    </div>
+                                    <p className="text-center fs-6 font-monospace mb-0">Game ID: 548</p>
                                 </div>
                             </div>
                         </SwiperSlide>
@@ -91,13 +95,17 @@ export const SliderSecond = () => {
                                     <div className="mt-4">
                                         <p className="md-text font-monospace">Prize Pool: </p>
                                     </div>
+                                    <div className="mb-3">
+                                            <a href="#" className="w-100 text-black cmn-btn">Play Now</a>
+                                    </div>
+                                    <p className="text-center fs-6 font-monospace mb-0">Game ID: 548</p>
                                 </div>
                             </div>
                         </SwiperSlide>
                         <SwiperSlide>
                             <div className="slider-nw">
                                 <div className="position-relative ">
-                                    <img src="https://pixner.net/dooplo3/main-v2/assets/images/compete-img-2.png" alt="img" className="img-fluid" />
+                                    <img src="https://pixner.net/dooplo3/main-v2/assets/images/compete-img-3.png" alt="img" className="img-fluid" />
                                     <div className="">
                                         <span className="live-text font-monospace fs-6">Live</span>
                                         <span className="entry-text fw-bolder font-monospace">Entry: $5</span>
@@ -123,13 +131,17 @@ export const SliderSecond = () => {
                                     <div className="mt-4">
                                         <p className="md-text font-monospace">Prize Pool: </p>
                                     </div>
+                                    <div className="mb-3">
+                                            <a href="#" className="w-100 text-black cmn-btn">Play Now</a>
+                                    </div>
+                                    <p className="text-center fs-6 font-monospace mb-0">Game ID: 548</p>
                                 </div>
                             </div>
                         </SwiperSlide>
                         <SwiperSlide>
                             <div className="slider-nw">
                                 <div className="position-relative ">
-                                    <img src="https://pixner.net/dooplo3/main-v2/assets/images/compete-img-2.png" alt="img" className="img-fluid" />
+                                    <img src="https://pixner.net/dooplo3/main-v2/assets/images/compete-img-4.png" alt="img" className="img-fluid" />
                                     <div className="">
                                         <span className="live-text font-monospace fs-6">Live</span>
                                         <span className="entry-text fw-bolder font-monospace">Entry: $5</span>
@@ -155,6 +167,10 @@ export const SliderSecond = () => {
                                     <div className="mt-4">
                                         <p className="md-text font-monospace">Prize Pool: </p>
                                     </div>
+                                    <div className="mb-3">
+                                            <a href="#" className="w-100 text-black cmn-btn">Play Now</a>
+                                    </div>
+                                    <p className="text-center fs-6 font-monospace mb-0">Game ID: 548</p>
                                 </div>
                             </div>
                         </SwiperSlide>
