@@ -7,6 +7,7 @@ import { Counter_section } from './components/Counter_section';
 import { SliderFirst } from './components/SliderFirst';
 import { SliderSecond } from './components/SliderSecond';
 import { HowPlay } from './components/HowPlay';
+import { Features } from './components/Features';
 const App = () => {
   return (
     <div>
@@ -16,6 +17,7 @@ const App = () => {
       <SliderFirst />
       <SliderSecond />
       <HowPlay />
+      <Features />
     </div>
   )
 }
