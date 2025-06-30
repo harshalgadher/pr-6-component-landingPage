@@ -82,7 +82,7 @@
 }
 
 .hover-line:hover .slide-img {
-    border: 1px solid rgb(255, 255, 103);
+    border: 2px solid rgb(255, 255, 103);
     transition: 1s all ease;
 }
 
@@ -163,6 +163,7 @@
     border-radius: 5px;
     background-color: #ffcc00;
     display: inline-block;
+    font-size: 20px;
 }
 .play-bg{
     background-color: #191921;
