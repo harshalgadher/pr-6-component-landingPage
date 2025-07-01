@@ -8,6 +8,9 @@ import { SliderFirst } from './components/SliderFirst';
 import { SliderSecond } from './components/SliderSecond';
 import { HowPlay } from './components/HowPlay';
 import { Features } from './components/Features';
+import Leaderboard from './components/Leaderboard';
+import { FrequentlyQue } from './components/FrequentlyQue';
+import { Form } from './components/Form';
 const App = () => {
   return (
     <div>
@@ -18,6 +21,9 @@ const App = () => {
       <SliderSecond />
       <HowPlay />
       <Features />
+      <Leaderboard />
+      <FrequentlyQue />
+      <Form />
     </div>
   )
 }

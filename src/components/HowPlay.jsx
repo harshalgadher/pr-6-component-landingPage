@@ -14,7 +14,7 @@ export const HowPlay = () => {
                     <h2>How To Play</h2>
                   </div>
                   <div className="row justify-content-evenly">
-                    <div className="cus-mar">
+                    <div className="cus-mar d-flex">
                       <div className="col-4">
                         <div className="single-box shadow-none position-relative text-center p-0 mb-4 align-items-center d-flex justify-content-center">
                           <div className="img-area position-relative">

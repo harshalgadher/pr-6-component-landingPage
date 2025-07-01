@@ -14,11 +14,11 @@ export const Features = () => {
                 <div className="col-xl-2 col-lg-2 col-md-4"></div>
               </div>
             </div>
-            <div className="cus-mar">
-              <div className="col-xl-4 col-md-6">
+            <div className="cus-mar row ">
+              <div className="col-xl-4 col-md-6 col-sm-12 py-4">
                 <div className="slider-nw">
                   <div className="position-relative ">
-                    <img src="https://pixner.net/dooplo3/main-v2/assets/images/compete-img-1.png" alt="img" className="img-fluid" />
+                    <img src="	https://pixner.net/dooplo3/main-v2/assets/images/tournaments-img-1.png" alt="img" className="img-fluid" />
                     <div className="">
                       <span className="live-text font-monospace text-white fs-6">Live</span>
                       <span className="entry-text fw-bolder font-monospace">Entry: $5</span>
@@ -51,10 +51,10 @@ export const Features = () => {
                 </div>
               </div>
 
-              <div className="col-xl-4 col-md-6">
+              <div className="col-xl-4 col-md-6 col-sm-12 py-4">
                 <div className="slider-nw">
                   <div className="position-relative ">
-                    <img src="https://pixner.net/dooplo3/main-v2/assets/images/compete-img-1.png" alt="img" className="img-fluid" />
+                    <img src="https://pixner.net/dooplo3/main-v2/assets/images/tournaments-img-2.png" alt="img" className="img-fluid" />
                     <div className="">
                       <span className="live-text font-monospace text-white fs-6">Live</span>
                       <span className="entry-text fw-bolder font-monospace">Entry: $5</span>
@@ -86,10 +86,10 @@ export const Features = () => {
                   </div>
                 </div>
               </div>
-              <div className="col-xl-4 col-md-6">
+              <div className="col-xl-4 col-md-6 col-sm-12 py-4">
                 <div className="slider-nw">
                   <div className="position-relative ">
-                    <img src="https://pixner.net/dooplo3/main-v2/assets/images/compete-img-3.png" alt="img" className="img-fluid" />
+                    <img src="https://pixner.net/dooplo3/main-v2/assets/images/tournaments-img-3.png" alt="img" className="img-fluid" />
                     <div className="">
                       <span className="live-text font-monospace text-white fs-6">Live</span>
                       <span className="entry-text fw-bolder font-monospace">Entry: $5</span>
