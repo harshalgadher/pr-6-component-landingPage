@@ -11,6 +11,7 @@ import { Features } from './components/Features';
 import Leaderboard from './components/Leaderboard';
 import { FrequentlyQue } from './components/FrequentlyQue';
 import { Form } from './components/Form';
+import { FooterSection } from './components/FooterSection';
 const App = () => {
   return (
     <div>
@@ -24,6 +25,7 @@ const App = () => {
       <Leaderboard />
       <FrequentlyQue />
       <Form />
+      <FooterSection />
     </div>
   )
 }
